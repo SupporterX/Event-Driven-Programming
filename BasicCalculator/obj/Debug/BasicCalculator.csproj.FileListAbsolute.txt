@@ -1,0 +1,21 @@
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.BasicCalculator.resources
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\COMLAB507\Desktop\Dela Rosa, John Vincent\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\chris\Downloads\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\chris\Downloads\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\chris\Downloads\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.exe.config
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.BasicCalculator.resources
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\chris\Downloads\BasicCalculator\obj\Debug\BasicCalculator.pdb
