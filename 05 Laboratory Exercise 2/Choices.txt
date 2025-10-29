@@ -1,0 +1,11 @@
+cbProgram
+BS Information Technology
+BS Computer Science
+BS Computer Engineering
+BS Tourism Management
+BS Hospitality Management
+BS Crimininology
+BS Multi-Media Arts
+cbGender
+Male
+Female

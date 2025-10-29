@@ -1,0 +1,12 @@
+C:\Users\COMLAB507\source\repos\FrmLab\bin\Debug\FrmLab.exe.config
+C:\Users\COMLAB507\source\repos\FrmLab\bin\Debug\FrmLab.exe
+C:\Users\COMLAB507\source\repos\FrmLab\bin\Debug\FrmLab.pdb
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.csproj.AssemblyReference.cache
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.FrmLab1.resources
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.FrmFileName.resources
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.Properties.Resources.resources
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.csproj.GenerateResource.cache
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.csproj.CoreCompileInputs.cache
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.exe
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.pdb
+C:\Users\COMLAB507\source\repos\FrmLab\obj\Debug\FrmLab.FrmRegistration.resources
